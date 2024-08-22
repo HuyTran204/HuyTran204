@@ -3,9 +3,6 @@
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 <imgalign="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huytran204&label=Profile%20views&color=0e75b6&style=flat" alt="huytran204" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huytran204" alt="huytran204" /></a> </p>
 
 - 🔭 I’m currently working on **Flight Management Website - フライト管理ウェブサイト**
 
@@ -36,8 +33,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/johntran911"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/johntran911" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huytran204&show_icons=true&locale=en&layout=compact" alt="huytran204" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huytran204&show_icons=true&locale=en" alt="huytran204" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huytran204&" alt="huytran204" /></p>
