@@ -1,6 +1,6 @@
-[![MasterHead](https://art.pixilart.com/sr2712ab0b35ecd.gif)](https://github.com/HuyTran204)
+![design team](https://github.com/user-attachments/assets/977dd02f-23e7-427c-82f2-a8d2ce17d772)
 <h1 align="center">Hi 👋, I'm Trần Gia Huy (John) | チャン・ザー・フイ</h1>
-<h3 align="center">Hi there! I'm Trần Gia Huy (チャン・ザー・フイ), a third-year Web Development student at the University of Information Technology, Vietnam National University - Ho Chi Minh City. My passion lies in web programming, particularly in frontend development. I’m constantly exploring new technologies and honing my skills in web design and development. Currently, I'm also learning Japanese with the aspiration to work in Japan as a Frontend Web Developer. I’m excited about the opportunity to immerse myself in Japan’s innovative tech environment and contribute to cutting-edge web projects. Feel free to check out my repositories and connect with me. Let's build something amazing together!</h3>
+<h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.27c415ad0c5c96cd24dcf4c264066317?rik=l9bGRoJq1BCO9g&riu=http%3a%2f%2f25.media.tumblr.com%2f7ec8a5f476bf3eb7f19726316192d5e9%2ftumblr_mk7dnxrR6I1qcmi8ro1_500.gif&ehk=buyb%2bubrNpSaexTrqfuvZXSTbn4RAflzbn81t3xvYNQ%3d&risl=&pid=ImgRaw&r=0">
 
 - 🔭 I’m currently learning and designing a website for myself **Flight management - フライト管理**
